@@ -1,12 +1,12 @@
 {
-  "homepage": "https://github.com/RegularKitsune/CheatSheet/tree/main/DupeBegone",
-  "1.12.2": {
-    "2.5.3": "Initial Release",
-    "2.5.4": "Added Time and Weather Options",
-    "3.0.0": "Added ServerChecker"
-  },
-  "promos": {
-    "1.12.2-latest": "3.0.0",
-    "1.12.2-recommended": "3.0.0"
-  }
+	"homepage": "https://github.com/RegularKitsune/CheatSheet/tree/main/DupeBegone",
+	"promos": {
+		"1.12.2-latest": "3.0.0",
+		"1.12.2-recommended": "3.0.0"
+	},
+	"1.12.2": {
+		"2.5.3": "Initial Release",
+		"2.5.4": "Added Time and Weather Options",
+		"3.0.0": "Added ServerChecker"
+	}
 }
